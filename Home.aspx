@@ -15,6 +15,8 @@
        </tr>
        <tr>
            <td colspan ="2"></td>
+
+           <asp:TextBox ID="Test" runat="server" ></asp:TextBox>
        </tr>
          <tr>
            <td align ="center">
