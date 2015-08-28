@@ -9,7 +9,7 @@
            <td align ="center" >
                <asp:Label ID="Label_AppName" runat="server" Text="Application Name"></asp:Label>
            </td>
-           <td align ="left"> 
+           <td align ="left">
                <asp:DropDownList ID="DDL_AppName" runat="server" Width ="150px" AutoPostBack="True" OnSelectedIndexChanged="DDL_AppName_SelectedIndexChanged"></asp:DropDownList>
            </td>
        </tr>
